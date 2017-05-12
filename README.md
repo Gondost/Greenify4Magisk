@@ -9,7 +9,7 @@ A very simple module to make Greenify work as a rom-integrated app to achieve th
 - Added the latest Greenify apk (v3.4.1)
 - Initial release with Greenify latest apk (v3.4)
 
-**(Apk downloaded directly from [ApkMirror](http://www.apkmirror.com/apk/oasis-feng/greenify/greenify-3-4-release/ "Greenify's apkmirror page"), original and not tampered in any way, check below).**
+**(Apk downloaded directly from [ApkMirror](http://www.apkmirror.com/apk/oasis-feng/greenify/ "Greenify's apkmirror page"), original and not tampered in any way, check below).**
 
 _MD5: f8fdfb66e8e6934abb5c5f184067e613_
 
