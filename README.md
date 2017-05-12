@@ -1,14 +1,17 @@
 # Greenify4Magisk
 A very simple module to make Greenify work as a rom-integrated app to achieve the best performance, without trigger the safetynet detection.
 
-## Compatibility:
+## Requirements:
 * Android 4.4+
-* Magisk installed (MagiskSU)
+* Magisk (MagiskSU/Magisk Manager)
 
 ## Changelog:
-- Initial release with Greenify latest 3.4 version included (Apk downloaded directly from [ApkMirror](http://www.apkmirror.com/apk/oasis-feng/greenify/greenify-3-4-release/), original and not tampered in any way, check below).
+- Added the latest Greenify apk (v3.4.1).
+- Initial release with Greenify latest apk (v3.4).
 
-(MD5: e57d62a17caf3e860f45d3aff168ff68. Apk Fingerprint: 6B:DB:E6:CE:E1:81:B0:F3:1F:87:61:0D:AC:CC:8A:B7:7F:8A:D4:03)
+**(Apk downloaded directly from [ApkMirror](http://www.apkmirror.com/apk/oasis-feng/greenify/greenify-3-4-release/ "Greenify's apkmirror page"), original and not tampered in any way, check below).**
+
+(MD5: e57d62a17caf3e860f45d3aff168ff68 and apk fingerprint: 6B:DB:E6:CE:E1:81:B0:F3:1F:87:61:0D:AC:CC:8A:B7:7F:8A:D4:03)
 
 ## Credits:
 * Oasis Feng (https://forum.xda-developers.com/showthread.php?t=2155737).
