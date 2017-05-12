@@ -16,8 +16,8 @@ _MD5: f8fdfb66e8e6934abb5c5f184067e613_
 _Apk fingerprint: 6B:DB:E6:CE:E1:81:B0:F3:1F:87:61:0D:AC:CC:8A:B7:7F:8A:D4:03_
 
 ## Credits:
-* Oasis Feng (https://forum.xda-developers.com/showthread.php?t=2155737).
-* Topjohnwu (https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445).
+* Greenify Developer - Oasis Feng (https://forum.xda-developers.com/showthread.php?t=2155737).
+* Magisk Developer - Topjohnwu (https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445).
 
 ## Source Code:
 * https://github.com/topjohnwu/magisk-module-template
