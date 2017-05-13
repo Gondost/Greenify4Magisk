@@ -30,3 +30,6 @@ _Apk fingerprint: 6B:DB:E6:CE:E1:81:B0:F3:1F:87:61:0D:AC:CC:8A:B7:7F:8A:D4:03_
 
 ## Third party code used:
 * https://github.com/topjohnwu/magisk-module-template
+
+## Repository image by:
+* [Rohit Singh](https://material.uplabs.com/posts/greenify-material-icon-concept "Author's page")
