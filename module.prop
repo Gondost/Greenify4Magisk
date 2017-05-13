@@ -1,7 +1,7 @@
 id=Greenify4Magisk
 name=Greenify4Magisk
-version=v3.4
-versionCode=4
+version=v3.4.1
+versionCode=5
 author=Abacate123
-description=A simple module to make Greenify work as a rom-integrated app to achieve the best performance.
+description=A very simple module to make Greenify work as a privileged app to achieve the best performance, without trigger the safetynet detection.
 template=3
