@@ -1,6 +1,9 @@
-# Greenify4Magisk
+<p align="center">
+<b>Greenify4Magisk</b><br>
+  <img src="http://i.imgur.com/lVjSpFv.png">
+</p>
 
-Hey, welcome to my Magisk module source, do you remember the "boost mode" that you could get (checking the app settings) by activating the greenify on xposed? ... If yes, and if you used to like that and would like to get that without xposed and without trigger the safetynet, then this simple module is for you.
+**Hey, welcome to my Magisk module source, do you remember the "boost mode" that you could get (checking the app settings) by activating the greenify on xposed? ... If yes, and if you used to like that and would like to get that without xposed and without trigger the safetynet, then this simple module is for you.**
 
 ### Quick Explanation:
 A very simple module to make Greenify work as a rom-integrated (privileged) app systemlessly, to achieve the best hibernating performance it could give without xposed, and it won't trigger the safetynet detection. It'll just add a folder with the apk into /system/priv-app.
