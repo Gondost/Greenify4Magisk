@@ -14,14 +14,15 @@
 * Magisk (MagiskSU/Magisk Manager **MUST HAVE**)
 
 ### Changelog:
-- Added the latest Greenify apk (v3.4.1)
-- Initial release with Greenify latest apk (v3.4)
+- Updated Greenify to 3.4.2
+
+- Added Greenify 3.4.1
+- Initial release with Greenify 3.4
 
 ### About the apk:
 * Apk downloaded directly from [APKMirror](http://www.apkmirror.com/apk/oasis-feng/greenify/ "Greenify's APKMirror page"), **original and not tampered in any way**, check below:
 
-* _Apk MD5: f8fdfb66e8e6934abb5c5f184067e613_
-
+* _Apk MD5: b58b3def856f217b8be7737f159e7fff_
 * _Apk Fingerprint: 6B:DB:E6:CE:E1:81:B0:F3:1F:87:61:0D:AC:CC:8A:B7:7F:8A:D4:03_
 
 # Credits:
