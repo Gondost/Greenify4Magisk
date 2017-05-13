@@ -7,7 +7,7 @@
 * Welcome to my Magisk module source. Do you remember the "root + boost" mode that you could get (see checking the app settings) by activating the greenify on xposed? ... If yes, and if you used to like that and would like to get that without xposed and without trigger the safetynet, then this simple module is for you.
 
 ### Quick Explanation:
-* A very simple module to make Greenify work as a rom-integrated (privileged) app systemlessly, to achieve the best hibernating performance it could give without xposed, and it won't trigger the safetynet detection. It'll just add a folder with the apk into /system/priv-app.
+* A very simple module to make Greenify work as a rom-integrated (privileged) app systemlessly, to achieve the best hibernating performance it could give without xposed, and, as a gift from Magisk, it won't trigger the safetynet detection.
 
 ### Requirements:
 * Android 4.4+ (This is Greenify's requirement)
