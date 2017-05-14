@@ -1,6 +1,6 @@
 <p align="center">
 <b> Greenify4Magisk </b><br>
-  <img src="http://i.imgur.com/lVjSpFv.png">
+  <img src="http://i.imgur.com/RTIZiTb.png">
 </p>
 
 ## Introduction:
