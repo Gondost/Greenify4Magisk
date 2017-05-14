@@ -34,4 +34,4 @@
 * https://github.com/topjohnwu/magisk-module-template
 
 ## Repository image by:
-* [Rohit Singh](https://material.uplabs.com/posts/greenify-material-icon-concept "Author's page")
+* [MickyFoley](https://forum.xda-developers.com/member.php?u=4549254 "Author's XDA profile")
