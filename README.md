@@ -14,8 +14,9 @@
 * Magisk (MagiskSU/Magisk Manager **MUST HAVE**)
 
 ### Changelog:
-- Updated Greenify to 3.4.2
+- Updated Greenify to 3.4.3
 
+- Updated Greenify to 3.4.2
 - Added Greenify 3.4.1
 - Initial release with Greenify 3.4
 
