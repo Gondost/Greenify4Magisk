@@ -10,11 +10,11 @@
 * A very simple module to make Greenify work as a rom-integrated (privileged) app systemlessly, to achieve the best hibernating performance it could give without xposed, and, as a gift from Magisk, it won't trigger the safetynet detection (that's why this module exists).
 
 ### Requirements:
-* Android 5.0+ (This is magisk's requirement)
-* Magisk (MagiskSU/Magisk Manager **MUST HAVE**)
+* Android 5.0+ (Magisk requirement)
+* Magisk v13+ (Manager and SU)
 
 ### About the apk:
-* Apk downloaded directly from [APKMirror](http://www.apkmirror.com/apk/oasis-feng/greenify/ "Greenify's APKMirror page"), **original and not tampered in any way**, check the MD5.
+* Apk downloaded directly from [APKMirror](http://www.apkmirror.com/apk/oasis-feng/greenify/ "Greenify's APKMirror page"), **original and not tampered in any way**.
 
 # Credits:
 * Greenify Developer - Oasis Feng (https://forum.xda-developers.com/showthread.php?t=2155737 and https://play.google.com/store/apps/details?id=com.oasisfeng.greenify).
