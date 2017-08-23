@@ -7,7 +7,7 @@
 * Do you remember the boost mode that you could enable by activating the greenify on xposed?... If yes, and if you would like to achieve that specific function without xposed, and, as a Magisk bonus, installing it quickly and systemlessly, then this simple module is for you.
 
 ### Quick Explanation:
-* A very simple module just to make Greenify work as a rom-integrated (privileged) app systemlessly, to achieve the best hibernating performance it could give. It'll just add a folder with the apk into /system/priv-app. If you're confused about why using this module and its purpose, read this.
+* A very simple module just to make Greenify work as a rom-integrated (privileged) app systemlessly, to achieve the best hibernating performance it could give. It'll just add a folder with the apk into /system/priv-app. If you're confused about why using this module and its purpose, check the module forum thread.
 
 * Note: You won't get any other xposed-side features, since magisk is NOT xposed!
 
