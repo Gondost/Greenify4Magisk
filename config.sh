@@ -42,7 +42,8 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Greenify4Magisk Module Template    "
+  ui_print "     Greenify4Magisk Module    "
+  ui_print "         By Abacate123         "
   ui_print "*******************************"
 }
 
