@@ -10,7 +10,7 @@ A very simple module just to make Greenify work as a rom-integrated (privileged)
 
 ## Requirements: 
 - Android 5.0+ (Magisk requirement)
-- Magisk v13+ (Manager and SU)
+- Magisk v14+ (Manager and SU)
 
 ### About the apk:
 * Apk downloaded directly from [APKMirror](http://www.apkmirror.com/apk/oasis-feng/greenify/ "Greenify's APKMirror page"), **original and not tampered in any way**.
