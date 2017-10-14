@@ -15,8 +15,11 @@ A very simple module just to make Greenify work as a rom-integrated (privileged)
 ### About the apk:
 * Apk downloaded directly from [APKMirror](http://www.apkmirror.com/apk/oasis-feng/greenify/ "Greenify's APKMirror page"), **original and not tampered in any way**.
 
+# XDA Module Thread:
+https://forum.xda-developers.com/apps/magisk/module-greenify4magisk-t3606277
+
 # Credits:
-* Greenify Developer - Oasis Feng (https://forum.xda-developers.com/showthread.php?t=2155737 and https://play.google.com/store/apps/details?id=com.oasisfeng.greenify).
+* Greenify Developer - Oasis Feng (https://forum.xda-developers.com/showthread.php?t=2155737 and https://play.google.com/store/apps/details?id=com.oasisfeng.greenify) (© All rights reserved).
 
 * Magisk Developer - Topjohnwu (https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445 and https://play.google.com/store/apps/details?id=com.topjohnwu.magisk).
 
