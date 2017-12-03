@@ -21,7 +21,7 @@ https://forum.xda-developers.com/apps/magisk/module-greenify4magisk-t3606277
 # Credits:
 * Greenify Developer - Oasis Feng (https://forum.xda-developers.com/showthread.php?t=2155737 and https://play.google.com/store/apps/details?id=com.oasisfeng.greenify) (© All rights reserved).
 
-* Magisk Developer - Topjohnwu (https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445 and https://play.google.com/store/apps/details?id=com.topjohnwu.magisk).
+* Magisk Developer - Topjohnwu (https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445).
 
 ## Third party code used:
 * https://github.com/topjohnwu/magisk-module-template
