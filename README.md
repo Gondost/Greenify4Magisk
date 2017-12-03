@@ -9,14 +9,14 @@ A very simple module just to make Greenify work as a rom-integrated (privileged)
 * Note: You won't get any other xposed-side features, since magisk is NOT xposed!
 
 ## Requirements: 
-- Android 5.0+ (Magisk requirement)
-- Magisk v14+ (Manager and SU)
+- Android 5.0+ (Magisk requirement).
+- Magisk v14+ (Manager and SU).
 
 ### About the apk:
 * Apk downloaded directly from [APKMirror](http://www.apkmirror.com/apk/oasis-feng/greenify/ "Greenify's APKMirror page"), **original and not tampered in any way**.
 
 # XDA Module Thread:
-https://forum.xda-developers.com/apps/magisk/module-greenify4magisk-t3606277
+[https://forum.xda-developers.com/apps/magisk/module-greenify4magisk-t3606277](https://forum.xda-developers.com/apps/magisk/module-greenify4magisk-t3606277 "Module official XDA thread")
 
 # Credits:
 * Greenify Developer - [Oasis Feng](https://play.google.com/store/apps/details?id=com.oasisfeng.greenify "Greenify's Play Store page") (© All rights reserved).
@@ -24,7 +24,7 @@ https://forum.xda-developers.com/apps/magisk/module-greenify4magisk-t3606277
 * Magisk Developer - [Topjohnwu](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445 "Magisk's official thread").
 
 ## Third party code used:
-* [Module Template](https://github.com/topjohnwu/magisk-module-template "Template's repository")
+* [Module Template](https://github.com/topjohnwu/magisk-module-template "Template's repository").
 
 ## Repository image by:
-* [MickyFoley](https://forum.xda-developers.com/member.php?u=4549254 "Author's XDA profile")
+* [MickyFoley](https://forum.xda-developers.com/member.php?u=4549254 "Author's XDA profile").
